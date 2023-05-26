@@ -5,4 +5,4 @@
 
 ### React sorting article app
 
-## you can see the demo: [reactsorting-articleapp.netlify.app](reactsorting-articleapp.netlify.app)
+## you can see the demo: [https://reactsorting-articleapp.netlify.app](https://reactsorting-articleapp.netlify.app)
